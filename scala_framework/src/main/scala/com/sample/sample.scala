@@ -30,7 +30,7 @@ object sample {
     //val df = sparkSession.read.format("com.databricks.spark.avro").load("fileLocation")
     //df.show()
     //df.registerTempTable("tempTable")
-    //spark.sqlContext.sql("select * from tempTable").show
+    //sparkSession.sqlContext.sql("select * from tempTable").show
     
     println("in main")
     sparkSession.close
