@@ -1,4 +1,7 @@
 # spark2
+References:
+https://databricks.com/blog/2016/07/26/introducing-apache-spark-2-0.html
+http://blog.madhukaraphatak.com/
 
 	1. Use scala 2.11.8
 	2. Use built-in csv connector instead of spark-csv ( 3rd party library)
