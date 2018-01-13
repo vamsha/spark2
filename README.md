@@ -1,6 +1,5 @@
 # spark2
 
-Spark 2.0:
 	1. Use scala 2.11.8
 	2. Use built-in csv connector instead of spark-csv ( 3rd party library)
 		i.  Schema Inference
